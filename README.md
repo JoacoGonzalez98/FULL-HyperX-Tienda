@@ -4,3 +4,5 @@
 ⚙️ Todas las herramientas que usé: HTML, CSS, SASS, JavaScript, Json, Bootstrap, Skeleton, Normalize CSS, Google Fonts, 
 
 🧠 Joaquín
+
+Podés acceder al sitio a traves de éste [link](https://joacogonzalez98.github.io/FULL-HyperX-Tienda/).
